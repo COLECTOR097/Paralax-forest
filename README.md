@@ -21,10 +21,10 @@ To use this project, simply open the index.html file in a web browser. You shoul
 
 # Screenshots
 
-<div style="display='flex';gap=10px">
-<img src='screenShots/screenShot1.png' width='150' height='250'/>
-<img src='screenShots/screenShot2.png' width='150' height='250'/>
-<img src='screenShots/screenShot3.png' width='150' height='250'/>
+<div style="display='flex'">
+<img src='screenShots/screenShot1.png' width='320' height='250'/>
+<img src='screenShots/screenShot2.png' width='320' height='250'/>
+<img src='screenShots/screenShot3.png' width='320' height='250'/>
 </div>
 
 # Contributing
